@@ -1,17 +1,86 @@
-# todo_app
+# 📝 Flutter Todo App
 
-A new Flutter project.
+A clean and minimal Todo application built using Flutter and Hive for local storage.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![Home Screen](screenshots/home.png)
+![Add Task](screenshots/add.png)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+
+- ✅ Add new tasks
+- ✏ Edit tasks
+- 🗑 Delete tasks
+- 🔁 Toggle task completion
+- 💾 Persistent storage using Hive
+
+---
+
+## 🛠 Tech Stack
+
+- Flutter
+- Dart
+- Hive (Local Database)
+- Provider (State Management)
+
+---
+
+## 📦 Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/flutter-todo-app.git
+```
+
+2. Navigate into the project
+
+```bash
+cd flutter-todo-app
+```
+
+3. Get dependencies
+
+```bash
+flutter pub get
+```
+
+4. Run the app
+
+```bash
+flutter run
+```
+
+---
+
+## 📂 Folder Structure
+
+```
+lib/
+ ├── models/
+ ├── providers/
+ ├── screens/
+ ├── widgets/
+ └── main.dart
+```
+
+---
+
+## 🔮 Future Improvements
+
+- Add dark mode
+- Add task categories
+- Cloud sync
+- Notifications
+
+---
+
+## 👨‍💻 Author
+
+Deva  
+GitHub: https://github.com/yourusername
