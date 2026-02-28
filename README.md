@@ -8,7 +8,6 @@ A clean and minimal Todo application built using Flutter and Hive for local stor
 
 ## 📸 Screenshots
 
-![App Icon](assets/logo.png)
 ![Home Screen](lib/screenshots/ss1.png)
 ![Add Task](lib/screenshots/ss2.png)
 
