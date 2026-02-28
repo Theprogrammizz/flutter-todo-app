@@ -1,4 +1,6 @@
 # 📝 Flutter Todo App
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A clean and minimal Todo application built using Flutter and Hive for local storage.
 
