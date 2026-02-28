@@ -13,7 +13,6 @@ void main() async{
   Hive.registerAdapter(TodoAdapter());
 
   await Hive.openBox<Todo>('todoBox');
-  
   runApp(const MyApp());
 }
 
