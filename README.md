@@ -2,6 +2,13 @@
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+### ⚠️ Archived Learning Project
+
+This repository is an early learning project.
+Check out my improved version here:
+
+👉 https://github.com/Theprogrammizz/ticktask-flutter
+
 A clean and minimal Todo application built using Flutter and Hive for local storage.
 
 ---
@@ -71,14 +78,6 @@ lib/
  └── main.dart
 ```
 
----
-
-## 🔮 Future Improvements
-
-- Add dark mode
-- Add task categories
-- Cloud sync
-- Notifications
 
 ---
 
